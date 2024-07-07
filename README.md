@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmbreenGulfraz09
-- 👀 I’m interested in Web Development and Machine learning.
-- 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on Web related projects and also courses from where i can learn more.
+- 👀 Front-end Web developer and AI/ML Enthusiast.
+- 🌱 Exploring the future of technology: where AI meets human-centric design.
+- 💞️ Continuously learning, adapting, and pushing the boundaries of what's possible in tech.
 - 📫 How to reach me: www.linkedin.com/in/ambreen-gulfraz-545a04265
 
 <!---
